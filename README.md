@@ -12,3 +12,5 @@
 
    Maka hasilnya :
    
+   <img width="1366" height="768" alt="hasil aplikasi belanja" src="https://github.com/user-attachments/assets/374483c2-a3fd-4717-a1fa-7485c8cd2591" />
+   
